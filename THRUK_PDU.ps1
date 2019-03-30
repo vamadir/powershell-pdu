@@ -3,7 +3,7 @@
     Name: THRUK_PDU.ps1
     The purpose of this script is to take data from THRUK (NAGIOS) website
 .DESCRIPTION
-    Created for Alibaba russian team.
+    Created for make my work more easy
 .NOTES
     Version:        0.01
 	Updated			27.03.2019

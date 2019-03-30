@@ -5,11 +5,11 @@
 .DESCRIPTION
     Created for make my work more easy
 .NOTES
-    Version:        0.04
-	Updated			23.12.2018
-    Creation Date:  31.10.2018
-    File Name  : PDU_data.ps1
-    Author     : Air Dorzhukai
+    Version:		0.04
+    Updated		23.12.2018
+    Creation Date: 	31.10.2018
+    File Name  :	PDU_data.ps1
+    Author     : 	Air Dorzhukai
 #>
 
 #Variables Data
